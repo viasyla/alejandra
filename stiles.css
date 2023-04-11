@@ -1,0 +1,38 @@
+
+*body{
+    padding: 120px;
+
+}
+
+.imagenUno{
+    /* background: url("./imagenes/pregunta-640.jpg"); */
+   
+    /* background:turquoise; */
+    height: 600px;
+    /* background-position: 0px;  */
+    outline: 2px solid violet;
+    /* max-width: 100%; */
+}
+.dibujoPregunta{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: linear-gradient();
+}
+.sec_preguntas{
+    padding: 50px;
+    width: 100px;
+    height: 500px;
+    outline: 2px solid red;
+
+    display: flex;
+    flex-direction: column;
+}
+.preguntas{
+    width: 100px;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
